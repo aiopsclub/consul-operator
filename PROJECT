@@ -1,0 +1,3 @@
+domain: operator.consul.io
+repo: consul-operator
+version: "2"
